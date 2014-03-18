@@ -24,15 +24,15 @@ A jQuery plugin to validate form fields. Use with [Bootstrap 3](http://getbootst
 
 You can see the live demo here:
 
-* [Sample demo](https://rawgithub.com/nghuuphuoc/bootstrapvalidator/master/demo/index.html)
-* [Validator examples](https://rawgithub.com/nghuuphuoc/bootstrapvalidator/master/demo/validators.html)
-* [Custom submit handler](https://rawgithub.com/nghuuphuoc/bootstrapvalidator/master/demo/submitHandler.html)
-* [Enable/disable validators on the fly](https://rawgithub.com/nghuuphuoc/bootstrapvalidator/master/demo/enable.html)
-* [Use with a datetime picker plugin](https://rawgithub.com/nghuuphuoc/bootstrapvalidator/master/demo/date.html)
+* [Sample demo](https://rawgithub.com/destro-nnt/bootstrapvalidator/master/demo/index.html)
+* [Validator examples](https://rawgithub.com/destro-nnt/bootstrapvalidator/master/demo/validators.html)
+* [Custom submit handler](https://rawgithub.com/destro-nnt/bootstrapvalidator/master/demo/submitHandler.html)
+* [Enable/disable validators on the fly](https://rawgithub.com/destro-nnt/bootstrapvalidator/master/demo/enable.html)
+* [Use with a datetime picker plugin](https://rawgithub.com/destro-nnt/bootstrapvalidator/master/demo/date.html)
 
 ## Install
 
-You can download the [latest version](https://github.com/nghuuphuoc/bootstrapvalidator/releases) or use [bower](http://bower.io) to install BootstrapValidator:
+You can download the [latest version](https://github.com/destro-nnt/bootstrapvalidator/releases) or use [bower](http://bower.io) to install BootstrapValidator:
 
 ```bash
 $ bower install bootstrapValidator
